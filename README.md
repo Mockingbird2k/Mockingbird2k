@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ali Ghebleh</h1>
-<h3 align="center">Undergraduate student in Physics at Sharif University of Technology</h3>
+<h3 align="center">M.Sc student in Integrated Life Sciences at University of Erlangen-Nuremberg</h3>
 
-- 🔭 I’m currently working on [Criticality Meets Learning](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0178683)
 
-- 🌱 I’m currently learning **Memory and Learning in Brain, R language, Bioinformatics and Machine Learning**
+- 🌱 I’m currently learning **Memory and Learning in Brain, R language, Bioinformatics and Reinforcement Learning**
 
-- 📫 How to reach me **a.gheble@yahoo.co.uk**
+- 📫 How to reach me **ali.ghebleh@fau.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
